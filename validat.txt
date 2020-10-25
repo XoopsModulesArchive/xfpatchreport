@@ -1,0 +1,8 @@
+FILE DELETED
+------------
+
+La Commission européenne a comme politique de ne pas transmettre de fichiers exécutables potentiellement dangereux par la présence éventuelle d’un virus. En conséquence, le fichier "myxoopsforge.zip->validate.js" annexé à ce message a été détruit.
+
+The European Commission has a policy of not relaying potentially harmful executable attachments because of a possible virus presence. Therefore the original attachment of this message ("myxoopsforge.zip->validate.js") has been destroyed.
+
+Die Europäische Kommission verfolgt eine Politik, ausführbare Programmdateien, die einen Virus enthalten könnten und daher eine mögliche Gefahr darstellen, nicht weiterzuleiten. Daher wurde die beigefügte "myxoopsforge.zip->validate.js" Datei gelöscht.
